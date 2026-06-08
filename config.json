@@ -1,0 +1,44 @@
+{
+  "documents": [
+    {
+      "id": "terms",
+      "title": "Terms of Service",
+      "version": "v2026-06-08-1",
+      "effectiveDate": "2026-06-08T09:00:00Z",
+      "url": "https://raw.githubusercontent.com/prxmity/legal/main/terms/v2026-06-08-1/{{locale}}.md",
+      "previousUrl": null,
+      "previousVersion": null,
+      "requiresReAcceptance": true
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy Policy",
+      "version": "v2026-06-08-1",
+      "effectiveDate": "2026-06-08T09:00:00Z",
+      "url": "https://raw.githubusercontent.com/prxmity/legal/main/privacy/v2026-06-08-1/{{locale}}.md",
+      "previousUrl": null,
+      "previousVersion": null,
+      "requiresReAcceptance": true
+    },
+    {
+      "id": "community",
+      "title": "Community Guidelines",
+      "version": "v2026-06-08-1",
+      "effectiveDate": "2026-06-08T09:00:00Z",
+      "url": "https://raw.githubusercontent.com/prxmity/legal/main/community/v2026-06-08-1/{{locale}}.md",
+      "previousUrl": null,
+      "previousVersion": null,
+      "requiresReAcceptance": false
+    },
+    {
+      "id": "imprint",
+      "title": "Imprint",
+      "version": "v2026-06-08-1",
+      "effectiveDate": "2026-06-08T09:00:00Z",
+      "url": "https://raw.githubusercontent.com/prxmity/legal/main/imprint/v2026-06-08-1/{{locale}}.md",
+      "previousUrl": null,
+      "previousVersion": null,
+      "requiresReAcceptance": false
+    }
+  ]
+}
