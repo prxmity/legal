@@ -110,7 +110,7 @@ We do not guarantee uninterrupted availability.
 
 ## 10. Account deletion
 
-You may request account deletion through the controls we make available.
+You may request account deletion through the controls we make available or by contacting `support@prxmity.com`.
 
 The intended production behavior is removal of your backend account data and corresponding authentication identity records associated with the service, subject to limited residual retention where reasonably necessary for security, legal compliance, dispute handling, or technical integrity.
 

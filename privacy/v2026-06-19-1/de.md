@@ -119,6 +119,8 @@ Einige Datensätze, einschließlich Nachweise über die Annahme rechtlicher Doku
 
 ## 10. Kontolöschung
 
+Du kannst die Löschung deines Kontos über die von uns bereitgestellten Funktionen oder durch Kontaktaufnahme mit `support@prxmity.com` verlangen.
+
 Wenn du dein Konto löschst, soll Prxmity die zugehörigen Backend-Kontodaten und die entsprechenden mit dem Dienst verbundenen Authentifizierungsidentitätsdaten entfernen.
 
 Löschung bedeutet möglicherweise nicht, dass jede verbleibende technische Spur sofort aus jedem System, Cache, Log, Backup oder jeder Dienstleisterebene verschwindet; das beabsichtigte Produktionsverhalten ist jedoch Kontolöschung und nicht bloße Deaktivierung.

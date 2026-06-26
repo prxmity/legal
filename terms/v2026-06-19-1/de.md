@@ -106,7 +106,7 @@ Wir garantieren keine ununterbrochene Verfügbarkeit.
 
 ## 10. Kontolöschung
 
-Du kannst die Löschung deines Kontos über die von uns bereitgestellten Funktionen verlangen.
+Du kannst die Löschung deines Kontos über die von uns bereitgestellten Funktionen oder durch Kontaktaufnahme mit `support@prxmity.com` verlangen.
 
 Das beabsichtigte Produktionsverhalten ist die Entfernung deiner Backend-Kontodaten und der entsprechenden mit dem Dienst verbundenen Authentifizierungsidentitätsdaten, vorbehaltlich begrenzter Restaufbewahrung, soweit dies vernünftigerweise für Sicherheit, Rechtskonformität, Streitbeilegung oder technische Integrität erforderlich ist.
 

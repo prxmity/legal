@@ -119,6 +119,8 @@ Some records, including legal acceptance evidence, security records, or logs, ma
 
 ## 10. Account deletion
 
+You can request account deletion through the controls we make available or by contacting `support@prxmity.com`.
+
 If you delete your account, Prxmity is intended to remove your backend account data and corresponding authentication identity records associated with the service.
 
 Deletion may not mean that every residual technical trace disappears instantly from every system, cache, log, backup, or provider layer, but the intended production behavior is account removal rather than mere deactivation.
