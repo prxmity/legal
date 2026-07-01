@@ -38,7 +38,7 @@ Wir verarbeiten die folgenden Kategorien personenbezogener Daten:
 
 Je nach Funktion erhalten wir diese Daten aus unterschiedlichen Quellen. Einige Daten kommen direkt von dir, einige von deinem Gerät, einige von den von dir gewählten Anmeldeanbietern, und einige entstehen durch den Betrieb des Dienstes und die damit verbundene Backend-Verarbeitung.
 
-Wenn du ein Website-Formular nutzt, das eine Löschungsanfrage-E-Mail vorbereitet, werden die von dir eingegebenen Informationen lokal verwendet, um diese Nachricht vorzubereiten. Wenn du die E-Mail anschließend sendest, erhalten und verarbeiten wir die von dir gesendeten Inhalte über unseren Support-Kanal.
+Wenn du ein öffentliches Website-Formular für einen Release-Interessen-Eintrag oder eine löschungsbezogene Anfrage nutzt, werden die von dir eingegebenen Informationen über unsere Website-Anfragekanäle übermittelt und anschließend zur Bearbeitung an das jeweils zuständige interne Postfach weitergeleitet. Wir erhalten und verarbeiten diese Inhalte über unsere Anfrage- und Kommunikationskanäle.
 
 ## 4. Wie die Standortverarbeitung funktioniert
 
@@ -101,7 +101,7 @@ Dazu können gehören:
 
 - Google und Google Cloud für Application Hosting, Datenbank, Secrets, Networking, Scheduling, Sicherheits- und Monitoring-Funktionen
 - Firebase Authentication für authentifizierungsbezogene Verarbeitung
-- Cloudflare für Frontend-Auslieferung sowie damit verbundene Caching-, Netzwerk-, Logging-, Metrik- oder Sicherheitsfunktionen
+- Cloudflare für Frontend-Auslieferung, Website-Anfragekanal-Verarbeitung sowie damit verbundene Caching-, Netzwerk-, Logging-, Metrik- oder Sicherheitsfunktionen
 - Zoho für E-Mail-Verarbeitung und damit verbundene Support-, Datenschutz-, Löschungsanfrage- oder releasebezogene Kommunikation
 - Google-Workspace-Tools wie Google Sheets für die Organisation von Release-Interessenlisten und damit verbundene betriebliche Kommunikationsverwaltung
 
@@ -141,7 +141,7 @@ Einige Datensätze, einschließlich Nachweise über die Annahme rechtlicher Doku
 
 Wenn du noch Zugriff auf die App hast, ist die bevorzugte Löschungsmethode die von uns bereitgestellte Kontolöschung direkt in der App.
 
-Wenn du keinen Zugriff auf die App hast, kannst du `support@prxmity.com` kontaktieren oder öffentliche Website-Anfragekanäle nutzen, die dir helfen, eine Löschungsanfrage-E-Mail vorzubereiten und zu senden.
+Wenn du keinen Zugriff auf die App hast, kannst du `support@prxmity.com` kontaktieren oder öffentliche Website-Anfragekanäle nutzen, die eine Löschungsanfrage in unseren Bearbeitungsablauf übermitteln.
 
 Wenn du dein Konto löschst, soll Prxmity die zugehörigen Backend-Kontodaten und die entsprechenden mit dem Dienst verbundenen Authentifizierungsidentitätsdaten entfernen.
 
