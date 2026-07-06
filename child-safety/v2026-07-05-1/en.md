@@ -4,6 +4,8 @@ Effective date: 2026-07-05
 
 Prxmity is an adult-only social-discovery service. People under 18 are not allowed to use the service.
 
+If we reasonably believe that an account belongs to, or is being used by, a person under 18, we may restrict, suspend, or terminate that account.
+
 We prohibit child sexual abuse and exploitation in any form. This includes, without limitation:
 
 - child sexual abuse material or any sexualized content involving minors

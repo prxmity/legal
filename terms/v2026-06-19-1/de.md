@@ -25,6 +25,8 @@ Wenn wir dich auffordern, Alters- oder Eignungsangaben zu bestätigen, musst du 
 
 Wir können den Zugang verweigern, einschränken, sperren oder beenden, wenn wir vernünftigerweise davon ausgehen, dass du die Teilnahmevoraussetzungen nicht erfüllst oder falsche oder irreführende Angaben gemacht hast.
 
+Dies gilt auch für Fälle, in denen wir vernünftigerweise davon ausgehen, dass ein Konto einer Person unter 18 Jahren gehört oder von einer solchen Person genutzt wird.
+
 ## 3. Konto und Anmeldung
 
 Du bist dafür verantwortlich, eine angemessene Kontrolle über dein Gerät und jede mit deinem Konto verbundene Anmeldemethode zu behalten.

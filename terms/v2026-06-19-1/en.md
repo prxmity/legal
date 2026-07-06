@@ -25,6 +25,8 @@ If we ask you to confirm age or eligibility information, you must provide accura
 
 We may refuse, restrict, suspend, or terminate access if we reasonably believe that you do not meet the eligibility requirements or that you provided false or misleading information.
 
+This includes cases where we reasonably believe that an account belongs to, or is being used by, a person under 18.
+
 ## 3. Account and sign-in
 
 You are responsible for maintaining reasonable control over your device and any sign-in method linked to your account.

@@ -4,6 +4,8 @@ Wirksam ab: 2026-07-05
 
 Prxmity ist ein Social-Discovery-Dienst nur fuer Erwachsene. Personen unter 18 Jahren duerfen den Dienst nicht nutzen.
 
+Wenn wir vernuenftigerweise davon ausgehen, dass ein Konto einer Person unter 18 Jahren gehoert oder von einer solchen Person genutzt wird, koennen wir dieses Konto einschraenken, sperren oder beenden.
+
 Wir untersagen sexuelle Gewalt gegen Kinder und die sexuelle Ausbeutung von Minderjaehrigen in jeder Form. Dazu gehoeren insbesondere:
 
 - Darstellungen sexualisierter Gewalt gegen Kinder sowie sonstige sexualisierte Inhalte mit Minderjaehrigen
