@@ -31,6 +31,14 @@
       "requiresReAcceptance": false
     },
     {
+      "id": "child-safety",
+      "title": "Child Safety Standards",
+      "version": "v2026-07-05-1",
+      "effectiveDate": "2026-07-05T09:00:00Z",
+      "url": "https://raw.githubusercontent.com/prxmity/legal/main/child-safety/v2026-07-05-1/{{locale}}.md",
+      "requiresReAcceptance": false
+    },
+    {
       "id": "imprint",
       "title": "Imprint",
       "version": "v2026-06-19-1",
