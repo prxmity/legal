@@ -32,6 +32,8 @@ Because Prxmity uses location-sensitive features, you must not:
 
 Do not use the service for hate, exploitation, extortion, trafficking, non-consensual sexual conduct, threats, violence, fraud, or any other unlawful or seriously unsafe activity.
 
+Any sexualized content involving minors, child sexual abuse material, grooming, or attempts to sexually exploit minors is strictly prohibited.
+
 ## 6. Respect boundaries and consent
 
 If another user does not want to engage, back off.

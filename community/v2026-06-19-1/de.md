@@ -32,6 +32,8 @@ Da Prxmity standortsensible Funktionen nutzt, darfst du nicht:
 
 Nutze den Dienst nicht für Hass, Ausbeutung, Erpressung, Menschenhandel, nicht einvernehmliches sexuelles Verhalten, Drohungen, Gewalt, Betrug oder andere rechtswidrige oder erheblich unsichere Aktivitäten.
 
+Jegliche sexualisierten Inhalte mit Minderjährigen, Darstellungen sexualisierter Gewalt gegen Kinder, Grooming oder Versuche, Minderjährige sexuell auszubeuten, sind strikt untersagt.
+
 ## 6. Respektiere Grenzen und Einwilligung
 
 Wenn ein anderer Nutzer nicht interagieren möchte, zieh dich zurück.
