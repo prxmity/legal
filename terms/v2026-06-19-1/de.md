@@ -94,7 +94,7 @@ Wir können, soweit vernünftigerweise erforderlich:
 
 Bei Durchsetzungsentscheidungen können Schwere, Wiederholung, Sicherheitsrisiko, Umgehungsversuche und Auswirkungen auf andere Nutzer oder den Dienst berücksichtigt werden.
 
-Wenn du Sicherheitsprobleme, Belästigung, Stalking, Missbrauch oder vermuteten Missbrauch des Dienstes melden musst, kontaktiere bitte: `support@prxmity.com`
+Wenn du Sicherheitsprobleme, Belästigung, Stalking, Missbrauch oder vermuteten Missbrauch des Dienstes melden musst, nutze die von uns bereitgestellten In-App-Meldefunktionen oder kontaktiere bitte: `support@prxmity.com`
 
 ## 9. Verfügbarkeit und Änderungen
 

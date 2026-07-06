@@ -50,7 +50,7 @@ Wir können Meldungen untersuchen, Missbrauch prüfen, Funktionen einschränken,
 
 Wir können auch ohne formelle Meldung handeln, wenn wir schwerwiegende Sicherheits-, Missbrauchs- oder Integritätsrisiken erkennen.
 
-Um Belästigung, Stalking, unsicheres Verhalten, Identitätsanmaßung oder sonstigen Missbrauch zu melden, kontaktiere bitte: `support@prxmity.com`
+Um Belästigung, Stalking, unsicheres Verhalten, Identitätsanmaßung oder sonstigen Missbrauch zu melden, nutze die von uns bereitgestellten In-App-Meldefunktionen oder kontaktiere bitte: `support@prxmity.com`
 
 ## 9. Nur für Erwachsene
 

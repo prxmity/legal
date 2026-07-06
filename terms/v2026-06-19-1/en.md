@@ -98,7 +98,7 @@ We may, to the extent reasonably necessary:
 
 Enforcement may take into account severity, repetition, safety risk, evasion attempts, and impact on other users or the service.
 
-If you need to report safety issues, harassment, stalking, abuse, or suspected misuse of the service, contact: `support@prxmity.com`
+If you need to report safety issues, harassment, stalking, abuse, or suspected misuse of the service, use the in-app reporting features we make available or contact: `support@prxmity.com`
 
 ## 9. Availability and changes
 

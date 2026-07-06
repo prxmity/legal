@@ -50,7 +50,7 @@ We may investigate reports, review misuse, restrict features, remove content, su
 
 We may also act without waiting for a formal report if we detect serious safety, abuse, or integrity risks.
 
-To report harassment, stalking, unsafe conduct, impersonation, or other misuse, contact: `support@prxmity.com`
+To report harassment, stalking, unsafe conduct, impersonation, or other misuse, use the in-app reporting features we make available or contact: `support@prxmity.com`
 
 ## 9. Adults only
 

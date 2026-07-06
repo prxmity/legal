@@ -32,13 +32,15 @@ Wir verarbeiten die folgenden Kategorien personenbezogener Daten:
 - Rechts- und Eignungsdaten, zum Beispiel Nachweise über die Annahme rechtlicher Dokumente, akzeptierte Versionen und Altersbestätigungsdaten.
 - Standort- und Aktivitätsdaten, zum Beispiel deinen genauen Standort, Genauigkeit, Aktivitätsstatus, Gerätezeitstempel und Serverzeitstempel.
 - Encounter- und Sicherheitsdaten, zum Beispiel Nearby-Kontextdaten, encounterbezogene Daten, Stummschaltungs- oder Blockierungsdaten und damit zusammenhängende Sicherheitszustände.
-- Anfrage- und Kommunikationsdaten, zum Beispiel Inhalte von Support-, Datenschutz- oder löschungsbezogenen E-Mails, die du uns sendest, die mit deinem Konto verknüpfte E-Mail-Adresse, optionale Angaben zu Username oder User-ID und den zugehörigen Kommunikationsverlauf.
+- Anfrage- und Kommunikationsdaten, zum Beispiel Inhalte von Support-, Datenschutz-, löschungsbezogenen oder sicherheitsbezogenen E-Mails und In-App-Meldungen, die du uns sendest, die mit deinem Konto verknüpfte E-Mail-Adresse, optionale Angaben zu Username oder User-ID, Meldungsdetails, beteiligte Konto-Identifikatoren, Zeitstempel, von dir freiwillig bereitgestellte Kontexte oder Nachweise und den zugehörigen Kommunikationsverlauf.
 - Release-Interessendaten, zum Beispiel die E-Mail-Adresse, die du angibst, von dir im Release-Interessen-Formular eingegebene Länder-, Stadt- oder sonstige Standortangaben, den Nachweis, dass du um Release-News, Testgruppen-Einladungen, Research-Outreach oder wichtige Produktupdates gebeten hast, sowie damit verbundene Listenverwaltungs- oder Kommunikationsdaten, falls solche erstellt werden.
 - Technische und betriebliche Daten, zum Beispiel Request-Metadaten, Sicherheits- und Rate-Limit-Daten, Servicelogs, Diagnosedaten, die zum Betrieb und zur Absicherung des Dienstes erforderlich sind, sowie Website-Auslieferungs- oder Netzwerksicherheitskontext, der von unseren Dienstleistern erzeugt wird.
 
 Je nach Funktion erhalten wir diese Daten aus unterschiedlichen Quellen. Einige Daten kommen direkt von dir, einige von deinem Gerät, einige von den von dir gewählten Anmeldeanbietern, und einige entstehen durch den Betrieb des Dienstes und die damit verbundene Backend-Verarbeitung.
 
 Wenn du ein öffentliches Website-Formular für einen Release-Interessen-Eintrag oder eine löschungsbezogene Anfrage nutzt, werden die von dir in dieses Formular eingegebenen Informationen über unsere Website-Anfragekanäle übermittelt und anschließend zur Bearbeitung an das jeweils zuständige interne Postfach weitergeleitet. Wir erhalten und verarbeiten diese Inhalte über unsere Anfrage- und Kommunikationskanäle.
+
+Wenn du in der App eine Meldung über einen Nutzer, ein Verhalten oder ein Produktproblem einreichst, erhalten und verarbeiten wir die Inhalte der Meldung, zugehörige Konto-Identifikatoren, Zeitangaben und sonstige Kontexte, die im Meldeablauf enthalten sind oder bei der Bearbeitung entstehen.
 
 ## 4. Wie die Standortverarbeitung funktioniert
 
@@ -70,9 +72,12 @@ Wir verarbeiten personenbezogene Daten, um:
 - Release-Interessen- oder Notify-Listen zu verwalten
 - releasebezogene Kommunikation, Testgruppen-Einladungen, Research-Outreach und wichtige Produktupdates zu senden, wenn du darum gebeten hast
 - Support-, Datenschutz-, Kontolöschungs- oder spezifische-Datenlöschungsanfragen zu empfangen und zu bearbeiten
+- Meldungen zu Sicherheit, Missbrauch, Fehlverhalten oder Produktproblemen zu empfangen, zu prüfen, zu untersuchen und zu beantworten
 - Anfragende zu überprüfen, soweit dies vernünftigerweise erforderlich ist
-- Missbrauch, unbefugte Löschung, Betrug oder Missbrauch von Anfragekanälen zu verhindern
+- beteiligte Nutzer zu kontaktieren, soweit dies vernünftigerweise erforderlich ist, um Meldungen zu prüfen oder den Dienst oder andere Nutzer zu schützen
+- Missbrauch, unbefugte Löschung, Betrug oder Missbrauch von Anfrage- und Meldekanälen zu verhindern
 - Nachweise über bearbeitete Anfragen aufzubewahren, soweit dies rechtlich gerechtfertigt ist
+- Nachweise über bearbeitete Meldungen aufzubewahren, soweit dies rechtlich gerechtfertigt ist
 - Kontolöschung und Aufbewahrungsbereinigung zu verarbeiten
 
 ## 6. Rechtsgrundlagen
@@ -133,7 +138,7 @@ Diese betrieblichen Zeitfenster können sich ändern, wenn sich der Dienst ände
 
 Release-Interessendaten, einschließlich der übermittelten E-Mail-Adresse, der übermittelten Standortangaben, der Einwilligungs- oder Signup-Nachweise und damit verbundener Listenverwaltungs- oder Kommunikationsdaten, werden nur so lange aufbewahrt, wie dies vernünftigerweise für Release-Koordination, Testgruppen-Einladungen, Research-Outreach, wichtige Produktupdates, die Bearbeitung von Opt-outs oder damit verbundene betriebliche Nachverfolgung erforderlich ist.
 
-Support-, Datenschutz- und Löschungsanfrage-Kommunikation wird nur so lange aufbewahrt, wie dies vernünftigerweise erforderlich ist, um die Anfrage zu bearbeiten, die Identität bei Bedarf zu überprüfen, Missbrauch oder unbefugte Löschung zu verhindern, das Ergebnis rechtlich gerechtfertigt zu dokumentieren oder Sicherheits-, Rechts- oder Streitfragen zu klären.
+Support-, Datenschutz-, Löschungsanfrage- und meldungsbezogene Kommunikation wird nur so lange aufbewahrt, wie dies vernünftigerweise erforderlich ist, um die Anfrage oder Meldung zu bearbeiten, die Identität bei Bedarf zu überprüfen, Missbrauch oder unbefugte Löschung zu verhindern, das Ergebnis rechtlich gerechtfertigt zu dokumentieren, Sicherheitsregeln durchzusetzen oder Sicherheits-, Rechts- oder Streitfragen zu klären.
 
 Einige Datensätze, einschließlich Nachweise über die Annahme rechtlicher Dokumente, Sicherheitsaufzeichnungen oder Logs, können für andere Zeiträume aufbewahrt werden, soweit dies vernünftigerweise erforderlich ist.
 
@@ -165,7 +170,9 @@ Wenn sich das Zugriffsmodell wesentlich ändert, können wir diese Erklärung ak
 
 Da Prxmity ein Produkt für physische Begegnungen in der realen Welt ist, können wir Daten verarbeiten, um Missbrauch zu erkennen, zu untersuchen und darauf zu reagieren, einschließlich Stalking, Belästigung, Nötigung, Betrug, Missbrauch von Standortfunktionen oder Missbrauch von Support- und Anfragekanälen.
 
-Wir können diese Daten verwenden, um unsere Nutzungsbedingungen und Community-Richtlinien durchzusetzen, einschließlich der Einschränkung von Funktionen, Sperrung von Konten oder anderer Schutzmaßnahmen.
+Dazu können Daten aus In-App-Meldungen, Sicherheitsbeschwerden, Problemmeldungen, zugehöriger Kommunikation und Aufzeichnungen darüber gehören, wer wen gemeldet hat, wann eine Meldung einging und welche Nachverfolgung erfolgt ist.
+
+Wir können diese Daten verwenden, um Vorfälle zu prüfen, beteiligte Nutzer soweit vernünftigerweise erforderlich zu kontaktieren und unsere Nutzungsbedingungen und Community-Richtlinien durchzusetzen, einschließlich der Einschränkung von Funktionen, Sperrung von Konten oder anderer Schutzmaßnahmen.
 
 ## 13. Deine Rechte
 
