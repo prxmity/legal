@@ -6,8 +6,8 @@
       "version": "v2026-06-19-1",
       "effectiveDate": "2026-06-19T09:00:00Z",
       "url": "https://raw.githubusercontent.com/prxmity/legal/main/terms/v2026-06-19-1/{{locale}}.md",
-      "previousUrl": "https://raw.githubusercontent.com/prxmity/legal/main/terms/v2026-06-08-1/{{locale}}.md",
-      "previousVersion": "v2026-06-08-1",
+      "previousUrl": null,
+      "previousVersion": null,
       "requiresReAcceptance": true
     },
     {
@@ -16,8 +16,8 @@
       "version": "v2026-07-05-1",
       "effectiveDate": "2026-07-05T09:00:00Z",
       "url": "https://raw.githubusercontent.com/prxmity/legal/main/privacy/v2026-07-05-1/{{locale}}.md",
-      "previousUrl": "https://raw.githubusercontent.com/prxmity/legal/main/privacy/v2026-07-01-1/{{locale}}.md",
-      "previousVersion": "v2026-07-01-1",
+      "previousUrl": null,
+      "previousVersion": null,
       "requiresReAcceptance": true
     },
     {
@@ -26,8 +26,8 @@
       "version": "v2026-06-19-1",
       "effectiveDate": "2026-06-19T09:00:00Z",
       "url": "https://raw.githubusercontent.com/prxmity/legal/main/community/v2026-06-19-1/{{locale}}.md",
-      "previousUrl": "https://raw.githubusercontent.com/prxmity/legal/main/community/v2026-06-08-1/{{locale}}.md",
-      "previousVersion": "v2026-06-08-1",
+      "previousUrl": null,
+      "previousVersion": null,
       "requiresReAcceptance": false
     },
     {
@@ -46,8 +46,8 @@
       "version": "v2026-06-19-1",
       "effectiveDate": "2026-06-19T09:00:00Z",
       "url": "https://raw.githubusercontent.com/prxmity/legal/main/imprint/v2026-06-19-1/{{locale}}.md",
-      "previousUrl": "https://raw.githubusercontent.com/prxmity/legal/main/imprint/v2026-06-08-1/{{locale}}.md",
-      "previousVersion": "v2026-06-08-1",
+      "previousUrl": null,
+      "previousVersion": null,
       "requiresReAcceptance": false
     }
   ]
